@@ -1,0 +1,19 @@
+* { padding: 0; margin: 0; }
+html { width: 100%;	/* height: 100%; */ overflow-x: hidden; overflow-y: auto; }
+body {    /* min-height: 100%; */
+	
+	    /* width: 100%; */
+background-image: url(../img/bg.png); background-repeat: no-repeat;    /* background-size: 100% 100%; */ background-position: 40% 50%; overflow-x: hidden; overflow-y: hidden; }
+.container { height: 36.1rem; }
+.alert { background-color: transparent; border: 0 solid transparent; }
+.person { display: block; margin: 1rem auto; padding: 1rem; border-radius: 50%; border: solid 0.05rem white; color: white; font-size: 4rem; background-color: transparent; opacity: 0.9; }
+h1 { background-color: transparent; border: 0 solid transparent; }
+.h4 { text-align: center; color: white; }
+.check-me-out { float: left; }
+.reg-for { float: right; font-size: 0.8rem; margin-bottom: 1rem; }
+.form-check-label { font-size: 0.8rem; }
+.form-control { font-size: 0.8rem; background-color: rgb(32, 40, 46); border-color: rgb(32, 40, 46); }
+.form-control:hover { background-color: rgb(25, 31, 35); border-color: rgb(25, 31, 35); }
+.form-control:focus { background-color: rgb(25, 31, 35); border-color: rgb(25, 31, 35); }
+.text-muted { background-color: transparent; }
+.main { margin-top: 2rem; background-color: #000; opacity: 0.8; border-radius: 3%; padding-bottom: 2rem; margin-left: 1rem; margin-right: 1rem; }
